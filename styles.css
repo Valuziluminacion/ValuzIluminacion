@@ -300,8 +300,8 @@ nav ul li {
 }
 
 .product {
-    width: calc(33.33% - 20px); /* Calcula el ancho de cada producto con margen */
-    margin-right: 20px; /* Espacio entre los productos */
+    width: calc(78.33% - 20px); /* Calcula el ancho de cada producto con margen */
+    margin-right: 10px; /* Espacio entre los productos */
     margin-bottom: 20px;
     box-sizing: border-box; /* Incluye el borde y el relleno en el cálculo del ancho */
 }
